@@ -1,0 +1,1 @@
+("8.8" ta6nt ("1c9b47b6b228acd5c9f5d24a473b6a450739029f" . "03dbaf43f3b1bfdd9a0dc73b55f65b3f4c674f1b") #"C:\\Users\\Zafer Ahmad\\Desktop\\JAYFER\\sn-graph.rkt" #"C:\\Users\\Zafer Ahmad\\Desktop\\JAYFER\\sn-utils.rkt" (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
